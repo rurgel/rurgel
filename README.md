@@ -5,7 +5,6 @@
 
 &nbsp;&nbsp;👨🏻‍💻 I am also proficient in Python, R and Matlab with a focus on machine learning and data analysis for computer vision and time series.
 
----
 
 🛠**Skills**
 
