@@ -5,6 +5,8 @@
 
 &nbsp;&nbsp;👨🏻‍💻 I am also proficient in Python, R and Matlab with a focus on machine learning and data analysis for computer vision and time series.
 
+---
+
 🛠**Skills**
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;![R Language](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
@@ -21,6 +23,8 @@
 ![Power BI](https://img.shields.io/badge/-Power&nbsp;BI-05122A?style=flat&logo=powerbi)&nbsp;![Matplotlib](https://img.shields.io/badge/-Matplotlib-05122A?style=flat&logo=python)
 
 ![AWS](https://img.shields.io/badge/-AWS-05122A?style=flat&logo=amazon-aws)&nbsp;![Azure](https://img.shields.io/badge/-Azure-05122A?style=flat&logo=microsoftazure&logoColor=0078D4)
+
+---
 
 📈**Stats**
 
