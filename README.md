@@ -1,9 +1,3 @@
-<style>
-td, th {
-   border: none!important;
-}
-</style>
-
 ## Hi there!<br>&nbsp;&nbsp;&nbsp;&nbsp;I'm Rafael.
 <a href="https://linkedin.com/in/rafaelgurgel"><img src="https://img.shields.io/badge/-rafaelgurgel-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a> <a href="mailto:rurgel@rurgel.io"><img src="https://img.shields.io/badge/-rurgel@rurgel.io-D14838?style=flat&logo=Gmail&logoColor=white"/></a>
 
